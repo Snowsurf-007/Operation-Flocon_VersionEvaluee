@@ -70,7 +70,7 @@ Ouvrez votre terminal et entrez les commandes suivantes :
 
 ```bash
 git clone https://github.com/Snowsurf-007/Operation-Flocon_VersionEvaluee
-cd Operation-Flocon
+cd Operation-Flocon_VersionEvaluee
 make
 ./operation_flocon
 ```
